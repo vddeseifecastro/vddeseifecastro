@@ -4,7 +4,7 @@
 
 **Computer Science Student**
 
-I build fullstack applications, desktop tools and AI-powered systems.
+I enjoy building things — from web apps to desktop tools, lately exploring AI integrations.
 
 [![GitHub followers](https://img.shields.io/github/followers/vddeseifecastro?style=flat-square&color=181717&logo=github)](https://github.com/vddeseifecastro)
 
